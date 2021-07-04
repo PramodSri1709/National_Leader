@@ -1,0 +1,314 @@
+html,body
+{
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden; 
+}
+.navbar-custom{
+    background-color: #151516 !important;
+    padding-right: 4%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+/* .kalam{
+    background-image: url(images/kalam.jpeg);
+    
+    opacity: 0.5;
+} */
+
+.title1{
+
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding: 3%;
+
+}
+
+.para1{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    padding: 3%;
+    padding-top: 0;
+}
+
+.para{
+
+    text-align: left;
+    padding: 10%;
+    padding-bottom: 0;
+
+}
+
+.para2{
+
+    text-align: left;
+    padding-top: 0% !important;
+    padding-bottom: 3% !important;
+    padding: 10%;
+
+}
+.briefly{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+
+}
+
+.buttons{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+    
+}
+.button1{
+    margin-right: 20px;
+    padding: 1%;
+    
+}
+.buttonimg{
+    height: 20px;
+    margin-bottom: 4px;
+}
+.buttonimg2{
+    height: 20px;
+    margin-bottom: 4px;
+    border-radius: 40px;
+}
+.row{
+    justify-content: center;
+}
+.button2{
+    width: 130px !important;
+    
+}
+
+.quotes{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 5%;
+    margin-bottom: 5%;
+}
+
+.line1{
+    border-top-style: solid ;
+    border-color: grey;
+    border-width: 0.5px;
+    width: 40%;
+    margin-right: 50px;
+}
+
+.line2{
+    border-top-style: solid;
+    border-color: grey;
+    border-width: 0.5px;
+    width: 40%;
+    margin-left: 50px;
+}
+
+.awards{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-bottom: 20px;
+    
+}
+.star{
+    margin-top: -23px;
+}
+.awardstxt{
+    margin-top: -12px;
+    margin-left: 20px;
+
+}
+
+.prices{
+    display: flex;
+    margin-left: -100px;
+    margin-right: -100px;
+}
+
+.price1{
+    border-style: solid;
+    border-width: 0.5px;
+    border-radius: 5px;
+    box-shadow: 0px 1px 11px grey;
+    border-color: grey;
+    margin: 1%;
+
+}
+
+.line4{
+    border-right-style: solid;
+    border-color: white;
+    border-width: 0.5px;
+}
+
+.ul1{
+    padding: 3%;
+    
+    text-align: left;
+    
+}
+.styles{
+    display: flex;
+}
+
+.ulist{
+    width: 200px;
+    text-align: center;
+}
+.poetry{
+    margin-top: 10px;
+    width: 300px;
+}
+
+.poemname{
+    text-align: center;
+    margin-top: -25px;
+    margin-left: 25px;
+}
+
+.poemname2{
+    text-align: center;
+    margin-top: -25px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+
+.line3{
+    border-top-style: solid ;
+    border-color: grey;
+    border-width: 0.5px;
+    width: 100px;
+}
+
+.container7{
+    display: flex;
+    justify-content: center;
+}
+.container8{
+    display: flex;
+    justify-content: center;
+}
+
+
+.flexible{
+    display: flex;
+    flex-direction: row;
+    
+}
+.image{
+    width: 96%;
+    height: 80%;
+    padding: 9%;
+    border-radius: 90px;
+    
+}
+.ap{
+    
+    text-align: justify;
+}
+
+.poetimage{
+    display: flex;
+    justify-content: center;
+
+}
+
+.barathi{
+    display: flex;
+    justify-content: center;
+}
+
+.linkedin{
+    height: 22px;
+    width: 20px;
+    margin-bottom: 3px;
+    border-radius: 20%;
+}
+.twitter{
+    height: 22px;
+    width: 20px;
+    margin-bottom: 3px;
+    border-radius: 20%;
+}
+.instagram{
+    height: 22px;
+    width: 20px;
+    margin-bottom: 3px;
+    border-radius: 20%;
+}
+.social{
+    display: flex;
+    justify-content: space-around;
+    padding: 3%;
+}
+.get{
+
+    padding-top: 2%;
+    text-align: center;
+
+}
+.rights{
+    padding: 1%;
+    text-align: center;
+}
+
+.btn{
+    width: 300px;
+}
+
+#bottompara{
+
+    padding-top: 10px;
+}
+
+
+
+
+#top1{
+
+    background-color: #151516;
+    color: white;
+    padding: 1%;
+    margin-top: 30px;
+
+}
+
+#buttons{
+    margin-bottom: 2%;
+}
+
+#price{
+    margin-bottom: 2%;
+    padding-top: 2%;
+}
+
+#bottom2{
+    background-color: black;
+    color: white;
+    padding: 4%;
+}
+#bottom1{
+    margin-top: 120px;
+    margin-bottom: 90px;
+}
+
+#awards{
+    margin-top: 50px;
+}
+#brand{
+
+    padding-left: 2%;
+}
+
+#buttons{
+    padding-bottom: 4%;
+}
